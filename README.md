@@ -1,4 +1,4 @@
-# Customized the Watermelon Game
+# Watermelon Game - Customization
 
 # 合成大西瓜
 
